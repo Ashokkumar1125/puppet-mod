@@ -1,0 +1,12 @@
+ puppet module install apt
+   37  puppet module install ploperations-puppetlabs_apt --version 0.0.5
+   75  puppet resource package name=git ensure=installed
+   77  puppet resource package name=git ensure=installed
+   79  apt-get install git -y
+   95  apt-get install tree -y
+  132  puppet module install reppard-jdk8 --version 0.0.4
+  134  puppet module install spantree-java8 --version 0.6.1
+  136  puppet module install hubspot-nexus --version 1.7.3
+  179  git clone puppet module install BoxUpp-mysql --version 0.0.4
+  180  puppet module install puppet module install BoxUpp-mysql --version 0.0.4
+  181  puppet module install BoxUpp-mysql --version 0.0.4
