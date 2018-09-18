@@ -1,0 +1,20 @@
+{
+  "CHANGELOG": "faf88704b682fece9012e847f07ecf9f",
+  "CODE_OF_CONDUCT.md": "5a62e6f618f89d1c76cd82a6f7d6b11c",
+  "Gemfile": "09bce4a1b8c1c5adadf896d08c5f32ee",
+  "Gemfile.lock": "3cc50090e6c2c6d99ace5729b35b4f6a",
+  "LICENSE": "e3fc50a88d0a364313df4b21ef20c29e",
+  "README.md": "089917180a4337770087e06f78040a95",
+  "Rakefile": "fca5e94a5ce93c2cd8eebf9dc96f0b7b",
+  "files/java.preseed": "1b89c67b59fa03a9210a7b22a6b51b92",
+  "files/set_java_home.sh": "a3858fa7e9cda952b595bcd9a52f6b70",
+  "manifests/init.pp": "3bf0626a61d6087b90fca12b26f3b583",
+  "metadata.json": "953d969f9cbd77cf9f713dea387fd272",
+  "spec/acceptance/class_spec.rb": "740dea7d4033b29e7db84776cd107dfd",
+  "spec/acceptance/nodesets/centos-64-x64.yml": "7ad72bad9087a52f30c6f7d5600b68dd",
+  "spec/acceptance/nodesets/default.yml": "1091bb0897dc8ee94a391ab1d8e45132",
+  "spec/acceptance/nodesets/ubuntu-server-12042-x64.yml": "1091bb0897dc8ee94a391ab1d8e45132",
+  "spec/classes/java8_spec.rb": "3851caae697777e4061d5339f37b8e43",
+  "spec/spec_helper.rb": "b1a7632d756ab596d559752d164fc776",
+  "spec/spec_helper_acceptance.rb": "b11537a44ea628674fd8a6edce09e713"
+}
