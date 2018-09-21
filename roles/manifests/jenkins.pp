@@ -1,5 +1,5 @@
 class roles::jenkins{
 
-include jdk
+include java8
 include jenkins
 }
